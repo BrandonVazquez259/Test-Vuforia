@@ -867,8 +867,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioPrefix: 
   audioList:
-  - "TECHNO MIX 2025 \U0001F4A3Only Techno Bangers \U0001F4A3 Episode 021 _ Mixed
-    by EJ"
+  - techno
+  - gorillaz
+  - twenty one
   audioS: {fileID: 1754973396}
   musicS: {fileID: 853139216}
   masterMixer: {fileID: 0}
