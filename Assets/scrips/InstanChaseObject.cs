@@ -8,8 +8,6 @@ public class InstantiateObject : MonoBehaviour
 
  public void Instantiate(Transform target)
     {
-        Instantiate(_objectToInstantiate, target.position, Quaternion.identity);
+        Instantiate(_objectToInstantiate,target.position, Quaternion.identity);
     }
 }
-
-
