@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: seven
   danceName: House
-  notesConfig: {fileID: 0}
+  notesConfig: {fileID: 4900000, guid: 6fd7b8a77c4b74f4aa5eb4f77bee2c8e, type: 3}
   speed: 100

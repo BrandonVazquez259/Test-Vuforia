@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: gorillaz
   danceName: HioHop
-  notesConfig: {fileID: 0}
+  notesConfig: {fileID: 4900000, guid: b94971cfb3a1fe5488d5528ad832a8cf, type: 3}
   speed: 100

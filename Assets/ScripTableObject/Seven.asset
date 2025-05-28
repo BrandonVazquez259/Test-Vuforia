@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: seven
   danceName: Swing
-  notesConfig: {fileID: 0}
+  notesConfig: {fileID: 4900000, guid: 4aaa9ea3fd227e74baa05aaec56c9933, type: 3}
   speed: 100
