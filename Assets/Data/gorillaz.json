@@ -1,8 +1,38 @@
 {
     "notes":[
-        {"time":1, "lane":0},
-        {"time":1.8, "lane":0},
-        {"time":3, "lane":0},
-        {"time":3.8, "lane":0}
+        {"time":9, "lane":0},
+        {"time":12, "lane":1},
+        {"time":14, "lane":2},
+        {"time":16, "lane":1},
+        {"time":20, "lane":0},
+        {"time":22, "lane":2},
+        {"time":28, "lane":0},
+        {"time":31, "lane":1},
+        {"time":32, "lane":2},
+        {"time":34, "lane":1},
+        {"time":36, "lane":2},
+        {"time":38, "lane":1},
+        {"time":42, "lane":0},
+        {"time":44, "lane":1},
+        {"time":46, "lane":2},
+        {"time":48, "lane":1},
+        {"time":50, "lane":2},
+        {"time":52, "lane":1},
+        {"time":54, "lane":2},
+        {"time":56, "lane":1},
+        {"time":58, "lane":2},
+        {"time":61, "lane":1},
+        {"time":63, "lane":0},
+        {"time":65, "lane":1},
+        {"time":68, "lane":2},
+        {"time":70, "lane":1}, 
+        {"time":72, "lane":2},
+        {"time":74, "lane":1},
+        {"time":76, "lane":2}, 
+        {"time":78, "lane":1},
+        {"time":80, "lane":2},
+        {"time":82, "lane":1},
+        {"time":84, "lane":0}
+ 
     ]
 }
