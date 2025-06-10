@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: gorillaz
   m_EditorClassIdentifier: 
   musicName: gorillaz
-  animationName: 
+  animationName: HioHop
   notesConfig: {fileID: 4900000, guid: b94971cfb3a1fe5488d5528ad832a8cf, type: 3}
   speed: 200
